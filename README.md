@@ -1,2 +1,2 @@
 # C.DB
-A file database written in c with multi threading and networking 
+An employee file database written in c with multi threading and networking 
